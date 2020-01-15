@@ -7,7 +7,6 @@ import javax.swing.JPanel;
 
 public class ActivityPane extends JPanel {
 	
-	
 	public ActivityPane() {
 
 		setSize(800,600);
