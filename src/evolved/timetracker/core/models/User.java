@@ -18,6 +18,8 @@ public class User {
 	public ArrayList<Log<Activity>> getLogs() {
 		return this.logs;
 	}
+
+
 	
 	
 }
